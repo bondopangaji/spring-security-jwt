@@ -8,13 +8,14 @@
     <img src="/assets/img/spring-logo-with-text.svg" alt="Logo" width="500" height="80">
   </a>
 
-<h3 align="center">Spring Security JWT</h3>
-
+<h3 align="center">Spring Security JWT</h3>  
   <p align="center">
     JSON Web Token Implementation in Spring Security
-    <br />
-    
+    <br />  
   </p>
+  
+  [![build](https://github.com/bondopangaji/spring-security-jwt/actions/workflows/maven.yml/badge.svg?branch=main)](https://github.com/bondopangaji/spring-security-jwt/actions/workflows/maven.yml)
+  
 </div>
 
 
